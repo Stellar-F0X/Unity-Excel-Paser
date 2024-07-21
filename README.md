@@ -8,4 +8,4 @@
 ExcelDataReader는 [MIT License](https://github.com/ExcelDataReader/ExcelDataReader/blob/develop/LICENSE)에 따라 배포됩니다.
 
 
-##사용 방법 (How to use)
+## 사용 방법 (How to use)
